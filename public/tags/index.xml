@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on THΞ SHΞLL</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on THΞ SHΞLL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>resuper@protonmail.com (YΛNGΛ)</managingEditor>
+    <webMaster>resuper@protonmail.com (YΛNGΛ)</webMaster>
+    <copyright>© 2025 YΛNGΛ</copyright>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced</title>
+      <link>http://localhost:1313/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/advanced/</guid>
+      <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ctf</title>
+      <link>http://localhost:1313/tags/ctf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forensics</title>
+      <link>http://localhost:1313/tags/forensics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Huntress</title>
+      <link>http://localhost:1313/tags/huntress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/huntress/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Huntress2024</title>
+      <link>http://localhost:1313/tags/huntress2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/huntress2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/tags/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/introduction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Contract</title>
+      <link>http://localhost:1313/tags/smart-contract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/tags/smart-contract/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

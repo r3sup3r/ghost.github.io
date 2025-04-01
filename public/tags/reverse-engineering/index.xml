@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reverse Engineering on ＴＨΞ ＧＨØＳＴ</title>
+    <link>http://localhost:1313/tags/reverse-engineering/</link>
+    <description>Recent content in Reverse Engineering on ＴＨΞ ＧＨØＳＴ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>resuper@protonmail.com (YΛNGΛ)</managingEditor>
+    <webMaster>resuper@protonmail.com (YΛNGΛ)</webMaster>
+    <copyright>© 2025 YΛNGΛ</copyright>
+    <atom:link href="http://localhost:1313/tags/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Malware Analysis and Reverse Engineering</title>
+      <link>http://localhost:1313/offensivesecurity/malwareanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/offensivesecurity/malwareanalysis/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Blowfish brings your content to life. DUH !
+&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+"Man is an individual only because of his intangible memory. But memory cannot be defined, yet it defines mankind. - Major Motoko Kusanagi.",
+          "All things change in a dynamic environment. Your effort to remain what you are is what limits you. - The Puppet Master.",
+          "It can also be argued that DNA is nothing more than a program designed to preserve itself. - Major Motoko Kusanagi.",
+          "If a technological feat is possible, man will do it. Almost as if it's wired into the core of our being. -  Major Motoko Kusanagi",
+          "Any way you look at it, all the information that a person accumulates in a lifetime is just a drop in the bucket. - Batou"

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on YΛNGΛ</title>
+    <link>http://localhost:1313/cheatsheet/</link>
+    <description>Recent content in Notes on YΛNGΛ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>resuper@protonmail.com (YΛNGΛ)</managingEditor>
+    <webMaster>resuper@protonmail.com (YΛNGΛ)</webMaster>
+    <copyright>© 2025 YΛNGΛ</copyright>
+    <atom:link href="http://localhost:1313/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Active Directory</title>
+      <link>http://localhost:1313/cheatsheet/activedirectory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/cheatsheet/activedirectory/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Blowfish brings your content to life.
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Linux Privilege Escalation</title>
+      <link>http://localhost:1313/cheatsheet/linuxprivesc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/cheatsheet/linuxprivesc/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Blowfish brings your content to life.
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Web Application PT</title>
+      <link>http://localhost:1313/cheatsheet/webapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/cheatsheet/webapp/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Blowfish brings your content to life.
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Windows Privilege Escalation</title>
+      <link>http://localhost:1313/cheatsheet/windowsprivesc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/cheatsheet/windowsprivesc/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Blowfish brings your content to life.
+&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

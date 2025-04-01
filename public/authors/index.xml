@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors Taxonomy Listing Example on THΞ SHΞLL</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors Taxonomy Listing Example on THΞ SHΞLL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>resuper@protonmail.com (YΛNGΛ)</managingEditor>
+    <webMaster>resuper@protonmail.com (YΛNGΛ)</webMaster>
+    <copyright>© 2025 YΛNGΛ</copyright>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Authors Taxonomy Listing Example</title>
+      <link>http://localhost:1313/authors/y%CE%BBng%CE%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>resuper@protonmail.com (YΛNGΛ)</author>
+      <guid>http://localhost:1313/authors/y%CE%BBng%CE%BB/</guid>
+      <description>&lt;p&gt;A quick example of how to start using author taxonomies in your articles.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

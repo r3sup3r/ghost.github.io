@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/ctfevents/cyberapocalypsectf2025/anewhire/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/whoami/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -48,11 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/ancientfossil/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -88,16 +78,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/blockchain/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/boot2root/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/offensivesecurity/capturetheflag/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -128,76 +108,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/cattle/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/boot2root/cicada/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/ctfevents/cyberapocalypsectf2025/crystalcorruption/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/ctf/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/ctfevents/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/ctfevents/cyberapocalypsectf2025/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/discountprogrammingdevice/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/eepy/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/ctfevents/cyberapocalypsectf2025/eldorion/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/ctfevents/cyberapocalypsectf2025/enchantedweights/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/finderfee/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/forensics/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/hackthebox/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/helpfuldesk/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -223,11 +133,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/huntress/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -238,32 +143,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/huntress2024/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/icantssh/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/introduction/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/keyboardjunky/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/knightsquest/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/linuxbasics/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -278,22 +158,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/malibu/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/offensivesecurity/malwareanalysis/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/mimi/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -308,32 +173,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/obfuscationstation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/oceanlocust/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/offensivesecurity/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/provingground/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/resources/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/rustline/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -361,16 +206,6 @@
       hreflang="en"
       href="http://localhost:1313/series/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/smart-contract/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/stackit/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
@@ -421,21 +256,6 @@
       hreflang="en"
       href="http://localhost:1313/topics/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/tryhackme/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/txtmessage/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/offensivesecurity/capturetheflag/huntress/huntress2024/typo/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/offensivesecurity/webpenetrationtesting/</loc>

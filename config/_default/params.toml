@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/kusanagi.jpg"
+defaultBackgroundImage = "/img/white.jpg"
 defaultFeaturedImage = "/img/featured.svg"
 
 highlightCurrentMenuArea = true
@@ -40,7 +40,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/kusanagi.jpg" # used in: hero, and card
+  homepageImage = "/img/white.jpg" # used in: hero, and card
   showRecent = true  
   showRecentItems = 10
   showMoreLink = true

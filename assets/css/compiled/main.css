@@ -2006,7 +2006,7 @@ select {
 }
 
 .max-w-prose {
-  max-width:65ch
+  max-width:100%
 }
 
 .max-w-xl {

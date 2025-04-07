@@ -19,17 +19,16 @@
   name = "Offensive Security"
   pageRef = "offensiveSecurity"
   weight = 25
-  [[main]]
-    name = "Web Application Penetration Test"
-    parent = "Offensive Security"
-    pageRef = "offensiveSecurity/webPenetrationTesting"
-    weight = 20
-  [[main]]
-    name = "Malware Analysis and Reverse Engineering"
-    parent = "Offensive Security"
-    pageRef = "offensiveSecurity/malwareanalysis"
-    weight = 40
-
+ # [[main]]
+ #   name = "Web Application Penetration Test"
+ #   parent = "Offensive Security"
+ #   pageRef = "offensiveSecurity/webPenetrationTesting"
+ #   weight = 20
+ # [[main]]
+ #   name = "Malware Analysis and Reverse Engineering"
+ #   parent = "Offensive Security"
+ #   pageRef = "offensiveSecurity/malwareanalysis"
+ #   weight = 40
   [[main]]
     name = "Capture The Flag"
     pageRef = "captureTheFlag"
@@ -40,46 +39,46 @@
       parent = "Capture The Flag"
       pageRef = "/captureTheFlag/huntress"
       weight = 60
-    [[main]]
-      name = "Hack The Box"
-      parent = "Capture The Flag"
-      pageRef = "/captureTheFlag/hackthebox"
-      weight = 70
-    [[main]]
-      name = "Try Hack Me"
-      parent = "Capture The Flag"
-      pageRef = "/captureTheFlag/tryhackme"
-      weight = 80
-    [[main]]
-      name = "Proving Ground"
-      parent = "Capture The Flag"
-      pageRef = "/captureTheFlag/provingground"
-      weight = 90
+    #[[main]]
+     #name = "Hack The Box"
+     #parent = "Capture The Flag"
+     #pageRef = "/captureTheFlag/hackthebox"
+     #weight = 70
+    #[[main]]
+      #name = "Try Hack Me"
+      #parent = "Capture The Flag"
+      #pageRef = "/captureTheFlag/tryhackme"
+      #weight = 80
+    #[[main]]
+      #name = "Proving Ground"
+      #parent = "Capture The Flag"
+      #pageRef = "/captureTheFlag/provingground"
+      #weight = 90
 
-[[main]]
-  name = "Machine Learning"
-  pageRef = "machinelearning"
-  weight = 95
-
-
-[[main]]
-  name = "Blockchain"
-  pageRef = "blockchain"
-  weight = 30
+#[[main]]
+#  name = "Machine Learning"
+#  pageRef = "machinelearning"
+#  weight = 95
 
 
-# Sub Navigaton
+#[[main]]
+#  name = "Blockchain"
+#  pageRef = "blockchain"
+#  weight = 30
 
 
-[[Subnavigation]]
-  name = "Resources"
-  pageRef = "resources"
-  weight = 75
+#Sub Navigaton
 
-[[Subnavigation]]
-  name = "Cheatsheets"
-  pageRef = "cheatsheets"
-  weight = 90
+
+#[[Subnavigation]]
+#  name = "Resources"
+#  pageRef = "resources"
+#  weight = 75
+
+#[[Subnavigation]]
+#  name = "Cheatsheets"
+#  pageRef = "cheatsheets"
+#  weight = 90
 
 
 

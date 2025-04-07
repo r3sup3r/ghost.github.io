@@ -13,13 +13,13 @@
 .toc ul,
 .toc li {
   @apply px-0 leading-snug list-none;
-  font-size: 13pt;
-  margin-left: 50px;
-}
+ /* font-size: 13pt;
+  margin-left: 35px;*/
+} 
 
-/* Increase the default font size */
+/*Increase the default font size */
 html {
-  font-size: 15pt;
+  font-size: 20px;
 
 }
 
